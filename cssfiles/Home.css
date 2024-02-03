@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width: 100%;
+    background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%);
+    background-image: url("https://img.freepik.com/premium-photo/assorted-indian-food-black-background_756748-18780.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 105vh;
+
+}
+.navbar{
+    width: 1200px;
+    height: 75px;
+    margin: auto;
+}
+.icon{
+    width: 200px;
+    float: left;
+    height: 70px;
+}
+.logo{
+    color: chocolate;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 20px;
+    float: inline-end;
+    padding-top: 10px;
+}
+.menu{
+    width: 400px;
+    float: inline-end;
+    height: 70px;
+}
+ul{
+    float: inline-end;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ul li{
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 27px;
+    font-size: 14px;
+
+}
+ul li button{
+    text-decoration: none;
+    color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+    background-color: black;
+    cursor: pointer;
+    height: 40px;
+    width: 200px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px 3px white;
+}
+ul li button:hover{
+    color: chocolate;
+}
+.content{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color: white;
+    position: relative;
+    float: inline-start;
+}
+.content .para{
+    padding-left: 20px;
+    padding-bottom: 25px;
+    font-family: Arial;
+    letter-spacing: 1px;
+    line-height: 30px;
+}
+.content h1{
+    font-family: 'Times New Roman';
+    font-size: 50px;
+    padding-left: 20px;
+    margin-top: 10%;
+    letter-spacing: 1px;
+}
+.content .btn{
+    width: 160px;
+    height: 40px;
+    background: black;
+    border: none;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.4s ease;
+    box-shadow: 1px 1px 1px 1px white;
+}
+.content .btn{
+    text-decoration: none;
+    color: aqua;
+    transition: .3s ease;
+}
+.btn:hover{
+    background-color: brown;
+}
+.content span{
+    color: chocolate;
+    font-size: 60px;
+}

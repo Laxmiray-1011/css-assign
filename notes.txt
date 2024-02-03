@@ -1,0 +1,23 @@
+Notes for Css Styling Assignments
+1-Home page:
+-  HTML structure involves a main div, navigation bar, logo, and menu with home, about,menu, and contact.              
+-  CSS styling includes background images, colors, and dimensions for various elements.
+- Buttons are added with appropriate styling with hover effects in buttons and through buttons redirect to the button name related pages.
+
+2-Contact us page:
+- create a contact us form using HTML and CSS.
+-  The form includes fields for the user's name, email,phone and message. And there's a clear separation between two sections: one for information and another for the contact form.
+-Background Image: The tutorial incorporates a background image with CSS properties like `background-size` and `background-position`.
+-The HTML structure includes form containers, headings (h2), unordered lists (ul), list items (li), icons, and input fields for name, email, and message.
+-CSS Styling: Various CSS styling techniques are applied, such as setting box-sizing, background properties, and using flexbox for layout. The styling of form elements, and their positioning.
+
+3-Menu page:
+- The menu page boasts an intuitive navigation system that allows customers to easily explore    different sections such as appetizers, main courses, desserts, and beverages.
+- A visually enticing layout with vibrant colors, high-quality images, and thoughtfully chosen .     fonts enhances the overall aesthetic appeal, creating an engaging atmosphere for customers.
+- Incorporating interactive elements like hover effects on menu items.
+- Each menu item is accompanied by detailed descriptions.
+
+4-AboutUs Page:
+The HTML and CSS code provided creates a well-structured "About Us" page for a restaurant website. The HTML structure includes a section for the about us content, and a footer. The CSS styles enhance the visual appeal with a box and the image and a button which is hovering a clean and readable font. The page is designed to provide information about the restaurant's passion for culinary excellence.
+ 
+

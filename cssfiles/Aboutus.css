@@ -1,0 +1,63 @@
+.h1 {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 4rem 18rem;
+    padding: 40px 47px;
+    box-shadow: 10px 10px 10px 10px;
+    height: 528px;
+    width: 1130px;
+}
+
+.container img {
+    height: 100%;
+    width: auto;
+    border-radius: 20px;
+}
+
+.aboutus {
+    margin: 0 17px;
+}
+
+.aboutus span {
+    color: red;
+    font-size: large;
+}
+
+.aboutus h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    font-size: 22px;
+    letter-spacing: 1px;
+}
+
+.aboutus p {
+    color: darkslategray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.btn {
+    margin: 9px 0;
+    padding: 6px 10px;
+    background-color: transparent;
+    border: 2px solid red;
+    border-radius: 10px;
+    color: rgb(12, 11, 11);
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+}
+
+.btn:hover {
+    background-color: red;
+}
+
+.footer {
+    text-align: center;
+    padding: 90px;
+    background-color: rgb(14, 13, 12);
+    color: white;
+}
